@@ -1,0 +1,50 @@
+.wrapper{
+    width: 1440px;
+    margin: 0 auto;
+    background-color: black;
+    padding: 15px 20px;
+    max-width: 700px;
+    margin-bottom: 10px;
+    border-radius: 50px;
+    transition: 1s;
+    color: #fff;
+}
+.comment__name{
+    font-size: 14px;
+}
+.comment__body{
+    font-size: 10px;
+}
+.wrapper:hover{
+    transform: scale(1.05);
+}
+a{
+    text-decoration: none;
+}
+.title{
+    color: wheat;
+    font-size: 21px;
+    font-weight: 600;
+}
+.text{
+    color:sandybrown;
+    max-width: 400px;
+}
+.button{
+    background-color: sandybrown;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    padding: 5px 17px;
+    margin-left: 10px;
+}
+.btn_text{
+    color: antiquewhite;
+    padding: 10px 17px;
+}
+.body{
+    
+}
+.btn{
+    color: antiquewhite;
+}
